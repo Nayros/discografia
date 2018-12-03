@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <?php
+
+//hi github
 $titulo=$discografica=$precio=$formato=$fLanzamiento=$fCompra=$precio="";
 $tituloMal=$discograficaMal=$PrecioMal="";
 $dsn="";
