@@ -2,6 +2,7 @@
 <?php
 
 //hi github
+//added anotha one!
 $titulo=$discografica=$precio=$formato=$fLanzamiento=$fCompra=$precio="";
 $tituloMal=$discograficaMal=$PrecioMal="";
 $dsn="";
